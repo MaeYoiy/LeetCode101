@@ -1,0 +1,15 @@
+d:\LeetCode\LeetCode101\SampleConsole\obj\Debug\net6.0\SampleConsole.csproj.AssemblyReference.cache
+d:\LeetCode\LeetCode101\SampleConsole\obj\Debug\net6.0\SampleConsole.GeneratedMSBuildEditorConfig.editorconfig
+d:\LeetCode\LeetCode101\SampleConsole\obj\Debug\net6.0\SampleConsole.AssemblyInfoInputs.cache
+d:\LeetCode\LeetCode101\SampleConsole\obj\Debug\net6.0\SampleConsole.AssemblyInfo.cs
+d:\LeetCode\LeetCode101\SampleConsole\obj\Debug\net6.0\SampleConsole.csproj.CoreCompileInputs.cache
+D:\LeetCode\LeetCode101\SampleConsole\bin\Debug\net6.0\SampleConsole.exe
+D:\LeetCode\LeetCode101\SampleConsole\bin\Debug\net6.0\SampleConsole.deps.json
+D:\LeetCode\LeetCode101\SampleConsole\bin\Debug\net6.0\SampleConsole.runtimeconfig.json
+D:\LeetCode\LeetCode101\SampleConsole\bin\Debug\net6.0\SampleConsole.dll
+D:\LeetCode\LeetCode101\SampleConsole\bin\Debug\net6.0\SampleConsole.pdb
+D:\LeetCode\LeetCode101\SampleConsole\obj\Debug\net6.0\SampleConsole.dll
+D:\LeetCode\LeetCode101\SampleConsole\obj\Debug\net6.0\refint\SampleConsole.dll
+D:\LeetCode\LeetCode101\SampleConsole\obj\Debug\net6.0\SampleConsole.pdb
+D:\LeetCode\LeetCode101\SampleConsole\obj\Debug\net6.0\SampleConsole.genruntimeconfig.cache
+D:\LeetCode\LeetCode101\SampleConsole\obj\Debug\net6.0\ref\SampleConsole.dll
