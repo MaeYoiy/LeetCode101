@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LeetCode\\LeetCode101\\SampleConsole\\SampleConsole.csproj": {}
+    "d:\\LeetCode\\LeetCode101\\SampleConsole\\SampleConsole.csproj": {}
   },
   "projects": {
-    "D:\\LeetCode\\LeetCode101\\SampleConsole\\SampleConsole.csproj": {
+    "d:\\LeetCode\\LeetCode101\\SampleConsole\\SampleConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LeetCode\\LeetCode101\\SampleConsole\\SampleConsole.csproj",
+        "projectUniqueName": "d:\\LeetCode\\LeetCode101\\SampleConsole\\SampleConsole.csproj",
         "projectName": "SampleConsole",
-        "projectPath": "D:\\LeetCode\\LeetCode101\\SampleConsole\\SampleConsole.csproj",
+        "projectPath": "d:\\LeetCode\\LeetCode101\\SampleConsole\\SampleConsole.csproj",
         "packagesPath": "C:\\Users\\ming\\.nuget\\packages\\",
-        "outputPath": "D:\\LeetCode\\LeetCode101\\SampleConsole\\obj\\",
+        "outputPath": "d:\\LeetCode\\LeetCode101\\SampleConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ming\\AppData\\Roaming\\NuGet\\NuGet.Config",
