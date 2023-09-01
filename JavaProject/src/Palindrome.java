@@ -1,5 +1,3 @@
-package LeetCode101;
-
 import java.util.Scanner;
 
 public class Palindrome {
@@ -9,6 +7,8 @@ public class Palindrome {
         System.out.print("Enter your number: ");
         int num = sc.nextInt();
         System.out.print(isPalindrome(num));
+
+        sc.close();
 
     }
 

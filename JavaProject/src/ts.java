@@ -1,5 +1,3 @@
-package LeetCode101;
-
 import java.util.Scanner;
 
 public class ts {
@@ -20,6 +18,8 @@ public class ts {
             System.out.print(a + " ");
         }
         // twoSum(nums, target);
+
+        sc.close();
 
     }
 
