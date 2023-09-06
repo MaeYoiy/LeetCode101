@@ -6,7 +6,12 @@ public class Palindrome {
         System.out.println("Mink");
         System.out.print("Enter your number: ");
         int num = sc.nextInt();
-        System.out.print(isPalindrome(num));
+        System.out.println(isPalindrome(num));
+
+        String m = "flight";
+        String target = "fl";
+        int index = m.indexOf(target);
+        System.out.println(index);
 
         sc.close();
 
